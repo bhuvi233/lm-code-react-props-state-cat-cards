@@ -136,6 +136,13 @@ body {
 	max-width: 1.875em;
 }
 
+image{
+	width: 100%;
+	border-radius: 5px;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
 @media only screen and (max-width: 405px) {
 	.header__title {
 		padding-left: 1.5rem;
